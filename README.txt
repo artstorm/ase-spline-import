@@ -67,14 +67,6 @@
 --------------------------------------------------------------------------------
  Changelog
 
- * v1.1 - 4 Jul 2008:
-   * Added a Progress Monitor when processing with dense high polycount meshes.
-   * The script can now be aborted while the progress monitor runs by pressing ESC.
- * v1.01 - 28 Jun 2008:
-   * Changed the internal name of SymmXMirror to include the prefix JS_.
- * v1.0 - 17 Feb 2008:
-   * Release of version 1.0.
-
  * v1.1 - 17 Feb 2010
    * Added an option to scale the imported splines.
    * Added a .cfg file located in LightWave's config folder to store the settings
